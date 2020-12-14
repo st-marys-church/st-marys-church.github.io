@@ -1,4 +1,4 @@
-const isGhPages = process.env.NODE_ENV === 'gh-pages'
+const isGhPages = process.env.GITHUB_WORKFLOW === 'gh-pages'
 const withPlugins = require('next-compose-plugins');
 const optimizedImages = require('next-optimized-images');
 
