@@ -80,3 +80,63 @@ export function getPostBySlug(slug) {
 
   return { frontmatter, post: { content, excerpt }, previousPost, nextPost };
 }
+
+
+export function getMainSectionFolders() {
+  // Get all posts folders located in `content/posts`
+  const postsFolders = fs
+    .readdirSync(`${process.cwd()}/content/main-sections`)
+    .map((folderName) => ({
+      directory: folderName,
+      filename: `${folderName}.md`,
+    }));
+
+  return postsFolders;
+}
+
+export function getSortedMainSections() {
+  const postFolders = getMainSectionFolders();
+
+  const posts = postFolders
+    .map(({ filename, directory }) => {
+      // Get raw content from file
+      const markdownWithMetadata = fs
+        .readFileSync(`content/main-sections/${directory}/${filename}`)
+        .toString();
+
+      // Parse markdown, get frontmatter data, excerpt and content.
+      const { data, excerpt, content } = matter(markdownWithMetadata);
+
+      const frontmatter = {
+        ...data
+      };
+
+      // Remove .md file extension from post name
+      const slug = filename.replace(".md", "");
+
+      return {
+        slug,
+        frontmatter,
+        excerpt,
+        content,
+      };
+    })
+    .sort(
+      (a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
+    );
+
+  return posts;
+}
+
+export function getMainSection(slug) {
+  const posts = getSortedMainSections();
+
+  const postIndex = posts.findIndex(({ slug: postSlug }) => postSlug === slug);
+
+  const { frontmatter, content, excerpt } = posts[postIndex];
+
+  const previousPost = posts[postIndex + 1];
+  const nextPost = posts[postIndex - 1];
+
+  return { frontmatter, post: { content, excerpt }, previousPost, nextPost };
+}

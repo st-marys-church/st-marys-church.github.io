@@ -10,11 +10,34 @@ export function Layout({ children }) {
     <div className="w-full min-h-screen dark:bg-gray-700 dark:text-white">
       <div className="max-w-screen-sm px-4 py-12 mx-auto antialiased font-body">
         <Header />
+        <nav>
+          <Link href={"/calender"} as={`/blog`}>
+            <a className="">
+              Calender
+                </a>
+          </Link>
+          &nbsp; | &nbsp;
+          <Link href={"/blog"} as={`/blog`}>
+            <a className="">
+              Blog
+                </a>
+          </Link>
+             &nbsp; | &nbsp;
+             <Link href={"/about"} as={`/about`}>
+            <a className="">
+              About
+                </a>
+          </Link>
+              &nbsp; | &nbsp;
+              <Link href={"/contact"} as={`/contact`}>
+            <a className="">
+              Contact
+                </a>
+          </Link>
+        </nav>
         <main>{children}</main>
         <footer className="text-lg font-light">
-          © {new Date().getFullYear()}, Built with{" "}
-          <a href="https://nextjs.org/">Next.js</a>
-          &#128293;
+          © {new Date().getFullYear()}, St Mary's Church, Bambalapitiya
         </footer>
       </div>
     </div>
@@ -69,9 +92,17 @@ const LargeTitle = () => (
           "dark:text-white"
         )}
       >
-        Next.Js Starter Blog
+        St Mary's Church
       </a>
     </Link>
+    <p className={clsx(
+      "text-lg font-black leading-none text-black no-underline font-display",
+      "sm:text-xl",
+      "dark:text-white"
+    )}
+    >
+      Bambalapitiya
+    </p>
   </h1>
 );
 
@@ -84,7 +115,7 @@ const SmallTitle = () => (
           "dark:text-white"
         )}
       >
-        Next.Js Starter Blog
+        St Mary's Church, Bambalapitiya
       </a>
     </Link>
   </h1>
