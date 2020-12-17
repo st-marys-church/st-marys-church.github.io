@@ -1,7 +1,7 @@
 {
-  "name": "nextjs-blog-starter",
-  "version": "0.2.0",
-  "description": "A Next.js template for a blog website.",
+  "name": "st-marys-colombo4",
+  "version": "0.4.0",
+  "description": "St Mary's Church Website.",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,6 +10,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "clsx": "^1.1.1",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
@@ -20,30 +21,22 @@
     "next-optimized-images": "^2.6.2",
     "next-themes": "^0.0.10",
     "react": "17.0.1",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "17.0.1",
     "react-markdown": "^5.0.3",
     "react-syntax-highlighter": "^15.3.1",
     "react-toggle-dark-mode": "^1.0.3",
+    "react-typography": "^0.16.19",
     "typeface-merriweather": "^1.1.13",
     "typeface-open-sans": "^1.1.13",
+    "typography": "^0.16.19",
+    "typography-theme-funston": "^0.16.19",
     "webp-loader": "^0.6.0"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.3.1",
     "autoprefixer": "^10.0.4",
     "gray-matter": "^4.0.2",
-    "postcss": "^8.1.10",
-    "tailwindcss": "^2.0.1"
+    "postcss": "^8.1.10"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jfelix61/nextjs-starter-blog.git"
-  },
-  "homepage": "https://github.com/Jfelix61/nextjs-starter-blog#readme",
-  "keywords": [
-    "next.js",
-    "blog",
-    "template"
-  ]
+  "license": "MIT"
 }

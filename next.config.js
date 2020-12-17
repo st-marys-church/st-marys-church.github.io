@@ -8,6 +8,6 @@ module.exports = withPlugins([
     }],
     {
         basePath: isGhPages ? '/st-marys-colombo4' : '',
-        exportTrailingSlash: true
+        trailingSlash: true
     }
 ]);

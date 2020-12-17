@@ -3,120 +3,92 @@ import clsx from "clsx";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
-import { useTheme } from "next-themes";
 
 export function Layout({ children }) {
   return (
-    <div className="w-full min-h-screen dark:bg-gray-700 dark:text-white">
-      <div className="max-w-screen-sm px-4 py-12 mx-auto antialiased font-body">
-        <Header />
-        <nav>
-          <Link href={"/calender"} as={`/blog`}>
-            <a className="">
-              Calender
-                </a>
-          </Link>
-          &nbsp; | &nbsp;
-          <Link href={"/blog"} as={`/blog`}>
-            <a className="">
-              Blog
-                </a>
-          </Link>
-             &nbsp; | &nbsp;
-             <Link href={"/about"} as={`/about`}>
-            <a className="">
-              About
-                </a>
-          </Link>
-              &nbsp; | &nbsp;
-              <Link href={"/contact"} as={`/contact`}>
-            <a className="">
-              Contact
-                </a>
-          </Link>
-        </nav>
-        <main>{children}</main>
-        <footer className="text-lg font-light">
-          © {new Date().getFullYear()}, St Mary's Church, Bambalapitiya
-        </footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <div class="col">
+            <Header />
+            <br />
+            <br />
+          </div>
+          <div class="col">
+            <main>{children}</main>
+            <footer className="text-lg font-light">
+              © {new Date().getFullYear()}, St Mary's Church, Bambalapitiya
+          </footer>
+          </div>
+          <div class="col">
+            2 of 2
+          </div>
+        </div>
+        <div class="col-6">
+          <img src="/main.jpeg" width="100%" />
+        </div>
       </div>
     </div>
   );
 }
 
 const Header = () => {
-  const { setTheme, resolvedTheme } = useTheme();
   const { pathname } = useRouter();
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => setMounted(true), []);
-
-  const toggleDarkMode = (checked) => {
-    const isDarkMode = checked;
-
-    if (isDarkMode) setTheme("dark");
-    else setTheme("light");
-  };
-
   const isRoot = pathname === "/";
-  const isDarkMode = resolvedTheme === "dark";
 
   return (
-    <header
-      className={clsx("flex items-center justify-between ", {
-        "mb-8": isRoot,
-        "mb-2": !isRoot,
-      })}
-    >
+    <header>
       <div className={"max-w-md"}>
         {isRoot ? <LargeTitle /> : <SmallTitle />}
       </div>
-      {mounted && (
-        <DarkModeSwitch
-          checked={isDarkMode}
-          onChange={toggleDarkMode}
-          className={isRoot ? 28 : 24}
-        />
-      )}
+      <nav>
+        <Link href={"/calender"} as={`/blog`}>
+          <a className="">
+            Calender
+              </a>
+        </Link>
+        &nbsp; | &nbsp;
+        <Link href={"/blog"} as={`/blog`}>
+          <a className="">
+            Blog
+              </a>
+        </Link>
+          &nbsp; | &nbsp;
+          <Link href={"/about"} as={`/about`}>
+          <a className="">
+            About
+              </a>
+        </Link>
+            &nbsp; | &nbsp;
+            <Link href={"/contact"} as={`/contact`}>
+          <a className="">
+            Contact
+              </a>
+        </Link>
+      </nav>
     </header>
   );
 };
 
 const LargeTitle = () => (
-  <h1>
+  <div>
     <Link href="/">
-      <a
-        className={clsx(
-          "text-3xl font-black leading-none text-black no-underline font-display",
-          "sm:text-5xl",
-          "dark:text-white"
-        )}
-      >
-        St Mary's Church
-      </a>
+      <img src="/logo.jpg" alt="" width="100" class="logo" />
     </Link>
-    <p className={clsx(
-      "text-lg font-black leading-none text-black no-underline font-display",
-      "sm:text-xl",
-      "dark:text-white"
-    )}
-    >
-      Bambalapitiya
-    </p>
-  </h1>
+    <h1>
+      <Link href="/">
+        St Mary's Church
+    </Link>
+    </h1>
+  </div>
 );
 
 const SmallTitle = () => (
-  <h1>
-    <Link href="/">
-      <a
-        className={clsx(
-          "text-2xl font-black text-black no-underline font-display",
-          "dark:text-white"
-        )}
-      >
+  <div>
+    <h4>
+      <Link href="/">
         St Mary's Church, Bambalapitiya
-      </a>
     </Link>
-  </h1>
+    </h4>
+  </div>
 );
