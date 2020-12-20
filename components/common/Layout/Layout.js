@@ -3,6 +3,7 @@ import clsx from "clsx";
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { DarkModeSwitch } from "react-toggle-dark-mode";
+import { getImageUrl } from "../../../utils/helpers";
 
 export function Layout({ children }) {
   return (
@@ -18,10 +19,9 @@ export function Layout({ children }) {
             <main>{children}</main>
             <footer className="text-lg font-light">
               © {new Date().getFullYear()}, St Mary's Church, Bambalapitiya
-          </footer>
+            </footer>
           </div>
           <div class="col">
-            2 of 2
           </div>
         </div>
         <div class="col-6">
@@ -73,7 +73,7 @@ const Header = () => {
 const LargeTitle = () => (
   <div>
     <Link href="/">
-      <img src="/logo.jpg" alt="" width="100" class="logo" />
+      <img src={getImageUrl("/logo.jpg")} alt="" width="100" class="logo" />
     </Link>
     <h1>
       <Link href="/">
