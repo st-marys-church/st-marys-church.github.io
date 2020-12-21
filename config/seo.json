@@ -1,15 +1,15 @@
 {
   "siteMetadata": {
-    "title": "Next.js Starter Blog",
+    "title": "St Mary's Church, Bambalapitiya",
     "author": {
-      "name": "Jose Felix",
-      "summary": "who works building clean user interfaces with React."
+      "name": "Joseph Fonseka",
+      "summary": "Site was created by Joseph Fonseka on behalf of Rev Fr. Trevor Martin"
     },
-    "description": "A blog created with Next.js and Tailwind.css",
-    "siteUrl": "https://nextjs-starter-blog-demo.netlify.app/",
+    "description": "St Mary's Church, Bambalapitiya web site ",
+    "siteUrl": "http://www.stmarysbambalapitiya.org/",
     "language": "en-US",
     "social": {
-      "twitter": "Jose_R_Felix"
+      "twitter": ""
     }
   }
 }

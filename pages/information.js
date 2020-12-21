@@ -4,9 +4,9 @@ import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import style from "react-syntax-highlighter/dist/cjs/styles/prism/dracula";
 
 import { Layout, Image, SEO, Bio } from "@components/common";
-import { getPostBySlug, getPostsSlugs } from "@utils/posts";
+import { getMainSection } from "@utils/posts";
 
-export default function Post({ post, frontmatter, nextPost, previousPost }) {
+export default function Post({ post, frontmatter }) {
   return (
     <Layout>
       <SEO
@@ -29,40 +29,21 @@ export default function Post({ post, frontmatter, nextPost, previousPost }) {
         />
         <hr className="mt-4" />
       </article>
-
-      <nav className="flex flex-wrap justify-between mb-10">
-        {previousPost ? (
-          <Link href={"/post/[slug]"} as={`/post/${previousPost.slug}`}>
-            <a className="text-lg font-bold">
-              ← {previousPost.frontmatter.title}
-            </a>
-          </Link>
-        ) : (
-          <div />
-        )}
-        {nextPost ? (
-          <Link href={"/post/[slug]"} as={`/post/${nextPost.slug}`}>
-            <a className="text-lg font-bold">{nextPost.frontmatter.title} →</a>
-          </Link>
-        ) : (
-          <div />
-        )}
-      </nav>
     </Layout>
   );
 }
 
-export async function getStaticPaths() {
-  const paths = getPostsSlugs();
+// export async function getStaticPaths() {
+//   const paths = getPostsSlugs();
 
-  return {
-    paths,
-    fallback: false,
-  };
-}
+//   return {
+//     paths,
+//     fallback: false,
+//   };
+// }
 
-export async function getStaticProps({ params: { slug } }) {
-  const postData = getPostBySlug(slug);
+export async function getStaticProps() {
+  const postData = getMainSection('information');
 
   if (!postData.previousPost) {
     postData.previousPost = null;
@@ -86,9 +67,9 @@ const CodeBlock = ({ language, value }) => {
 const MarkdownImage = ({ alt, src }) => (
   <Image
     alt={alt}
-    src={require(`../../content/assets/${src}`)}
-    webpSrc={require(`../../content/assets/${src}?webp`)}
-    previewSrc={require(`../../content/assets/${src}?lqip`)}
-    className="img-content"
+    src={require(`../content/assets/${src}`)}
+    webpSrc={require(`../content/assets/${src}?webp`)}
+    previewSrc={require(`../content/assets/${src}?lqip`)}
+    className="w-full"
   />
 );

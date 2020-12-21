@@ -8,6 +8,7 @@ export function Bio({ className }) {
 
   return (
     <div className={clsx(`flex items-center`, className)}>
+      {/*}
       <Image
         className="flex-shrink-0 mb-0 mr-3 rounded-full w-14 h-14"
         src={require("../../../content/assets/profile.png")}
@@ -23,6 +24,7 @@ export function Bio({ className }) {
           Follow him on twitter
         </a>
       </p>
+    */}
     </div>
   );
 }

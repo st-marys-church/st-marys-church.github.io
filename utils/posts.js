@@ -1,6 +1,7 @@
 import matter from "gray-matter";
 import fs from "fs";
 
+
 export function getPostsFolders() {
   // Get all posts folders located in `content/posts`
   const postsFolders = fs
@@ -139,4 +140,49 @@ export function getMainSection(slug) {
   const nextPost = posts[postIndex - 1];
 
   return { frontmatter, post: { content, excerpt }, previousPost, nextPost };
+}
+
+export function getHomeSections() {
+  // Get all posts folders located in `content/posts`
+  const postsFolders = fs
+    .readdirSync(`${process.cwd()}/content/main-sections`)
+    .map((folderName) => ({
+      directory: folderName,
+      filename: `${folderName}.md`,
+    }));
+
+  return postsFolders;
+}
+
+export function getHomePageSections() {
+  const homeSections = fs
+    .readdirSync(`${process.cwd()}/content/home-page`);
+
+  const posts = homeSections
+  .map((filename) => {
+    // Get raw content from file
+    const markdownWithMetadata = fs
+      .readFileSync(`${process.cwd()}/content/home-page/${filename}`)
+      .toString();
+
+    // Parse markdown, get frontmatter data, excerpt and content.
+    const { data, excerpt, content } = matter(markdownWithMetadata);
+
+    const frontmatter = {
+      ...data
+    };
+
+    // Remove .md file extension from post name
+    const slug = filename.replace(".md", "");
+    return {
+      slug,
+      frontmatter,
+      excerpt,
+      content,
+    };
+  });
+  
+  let left = posts.filter(section => { return section.frontmatter.side == 'left'});
+  let right = posts.filter(section => { return section.frontmatter.side == 'right'});
+  return { left, right };
 }

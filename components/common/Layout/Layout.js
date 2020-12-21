@@ -9,23 +9,16 @@ export function Layout({ children }) {
   return (
     <div class="container">
       <div class="row">
-        <div class="col-6">
-          <div class="col">
-            <Header />
-            <br />
-            <br />
-          </div>
-          <div class="col">
-            <main>{children}</main>
-            <footer className="text-lg font-light">
-              © {new Date().getFullYear()}, St Mary's Church, Bambalapitiya
-            </footer>
-          </div>
-          <div class="col">
-          </div>
+        <div class="col">
+          <Header />
         </div>
-        <div class="col-6">
-          <img src="/main.jpeg" width="100%" />
+      </div>
+      <main>{children}</main>
+      <div class="row">
+        <div class="col">
+          <footer className="text-lg font-light">
+              © {new Date().getFullYear()}, St Mary's Church, Bambalapitiya
+          </footer>        
         </div>
       </div>
     </div>
@@ -42,27 +35,27 @@ const Header = () => {
         {isRoot ? <LargeTitle /> : <SmallTitle />}
       </div>
       <nav>
-        <Link href={"/calender"} as={`/blog`}>
+        <Link href={"/information"} as={`/information`}>
           <a className="">
-            Calender
+            Information
               </a>
         </Link>
         &nbsp; | &nbsp;
         <Link href={"/blog"} as={`/blog`}>
           <a className="">
-            Blog
-              </a>
+            Parish council &amp; Associations
+          </a>
         </Link>
           &nbsp; | &nbsp;
           <Link href={"/about"} as={`/about`}>
           <a className="">
-            About
-              </a>
+            Parish Projects 
+          </a>
         </Link>
             &nbsp; | &nbsp;
             <Link href={"/contact"} as={`/contact`}>
           <a className="">
-            Contact
+            Contact Us
               </a>
         </Link>
       </nav>
@@ -77,7 +70,7 @@ const LargeTitle = () => (
     </Link>
     <h1>
       <Link href="/">
-        St Mary's Church
+        St Mary's Church, Bambalapitiya
     </Link>
     </h1>
   </div>

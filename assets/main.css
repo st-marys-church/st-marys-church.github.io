@@ -1,7 +1,25 @@
+header {
+  margin-bottom: 3em;
+}
+
+footer {
+  padding-top:1em;
+}
+
 .container {
   margin-top:3em;
 }
 
 .logo {
   float: left;
+  margin-right: 1em;
+  width: 4em;
+}
+
+.img-content {
+  width:100%;
+}
+
+.home-section {
+  margin-bottom: 2.5em;
 }
