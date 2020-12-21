@@ -1,4 +1,5 @@
 import "lazysizes";
+import { getImageUrl } from "../../../utils/helpers";
 
 export function Image({ alt, src, previewSrc, webpSrc, className }) {
   return (
@@ -8,7 +9,7 @@ export function Image({ alt, src, previewSrc, webpSrc, className }) {
       <img
         className={`lazyload blur ${className} img-content`}
         alt={alt}
-        src={previewSrc}
+        src={webpSrc}
       />
     </picture>
   );

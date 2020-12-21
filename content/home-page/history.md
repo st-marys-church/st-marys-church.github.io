@@ -6,4 +6,4 @@ order: 1
 
 ### About
 
-![Cat](main.jpeg)
+![St. Mary's Church](main.jpeg)

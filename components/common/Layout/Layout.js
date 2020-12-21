@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import clsx from "clsx";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { DarkModeSwitch } from "react-toggle-dark-mode";
 import { getImageUrl } from "../../../utils/helpers";
 
 export function Layout({ children }) {
