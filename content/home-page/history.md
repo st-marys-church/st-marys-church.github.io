@@ -8,4 +8,4 @@ order: 1
 
 ![St. Mary's Church](main.jpeg)
 
- [Contact Us](https://hevayo.github.io/st-marys-colombo4/contact/).
+ [Contact Us](./contact/).
