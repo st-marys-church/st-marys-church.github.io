@@ -8,7 +8,7 @@ import { TypographyStyle, GoogleFont } from 'react-typography'
 import Typography from "typography"
 import funstonTheme from "typography-theme-funston"
 const typography = new Typography(funstonTheme)
-//import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export function SEO({ title, description = "" }) {
   const siteMetadata = getSiteMetaData();
@@ -34,9 +34,8 @@ export function SEO({ title, description = "" }) {
       <meta name="twitter:creator" content={siteMetadata.social.twitter} />
       <link rel="icon" type="image/png" href="/static/favicon.ico" />
       <link rel="apple-touch-icon" href="/static/favicon.ico" />
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"></link>
-      <TypographyStyle typography={typography} />
-      <GoogleFont typography={typography} />
+      {/* <TypographyStyle typography={typography} /> */}
+      {/* <GoogleFont typography={typography} /> */}
     </Head>
   );
 }
