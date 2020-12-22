@@ -32,6 +32,7 @@ export function SEO({ title, description = "" }) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       <meta name="twitter:creator" content={siteMetadata.social.twitter} />
+      <meta http-equiv="Cache-Control" content="no-store" />
       <link rel="icon" type="image/png" href="/static/favicon.ico" />
       <link rel="apple-touch-icon" href="/static/favicon.ico" />
       {/* <TypographyStyle typography={typography} /> */}
