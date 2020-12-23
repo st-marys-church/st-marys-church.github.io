@@ -1,29 +1,32 @@
 ---
-title: Mass Times
+title: Regular Services at St. Mary's
 side: left
 order: 1
 ---
 
-### Weekly Holy Masses
+### Regular Services at St. Mary's
 
-**Monday, Tuesday and Thursday** <br />
-6:00am
+**Week Day Masses**
+- Monday, Tuesday and Thursday - 6:00 AM
+- Wednesday and Friday - 12:30 pm and 6.30 pm 
+ 
+**Week End Masses**
+- Saturday - 6:30 AM and 6:15 pm
+- Sunday - 7:00 am *, 8:30 am, 10:30 am and 6:00 pm
 
-**Wednesday and Friday** <br />
-6:30pm
 
-6:10pm Novena to the Holy Spirit before Wednesday evening mass.
-6pm Adoration of the Blessed Sacrament before Friday evening mass.
+**Novenas**
 
-**Saturday** <br />
-6:30am and 6:15pm
+- Wednesday - 6.10 pm  Novena to the Holy Spirit followed by Holy Mass.
 
-**Sunday** <br />
-7:00am *, 8:30am, 10:30am, 6:00pm.
+**Adoration of the Blessed Sacrament**
 
-*&nbsp;7:00am Mass 
-1st Sunday (Sinhala), 
-3rd Sunday (Tamil)
+- Friday - 6.00 pm followed by Holy Mass
 
-Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
+ 
+
+\* 7:00am Mass 1st Sunday (Sinhala), 3rd Sunday (Tamil)
+
+
 All Masses are in English except where noted
+Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
