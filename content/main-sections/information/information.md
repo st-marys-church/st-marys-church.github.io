@@ -3,6 +3,8 @@ title: Information
 description: Information
 ---
 
+![Projects](Information.png)
+
 ## Regular Services at St. Mary's
 
 **Week Day Masses**

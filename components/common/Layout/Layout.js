@@ -46,7 +46,7 @@ const Header = () => {
           </a>
         </Link>
           &nbsp; | &nbsp;
-          <Link href={"/about"} as={`/parish-projects`}>
+          <Link href={"/parish-projects"} as={`/parish-projects`}>
           <a className="">
             Parish Projects 
           </a>

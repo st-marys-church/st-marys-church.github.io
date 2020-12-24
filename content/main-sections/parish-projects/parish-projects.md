@@ -3,4 +3,6 @@ title: Parish Projects
 description: Parish Projects
 ---
 
-Parish Projects related content
+![Projects](Projects.png)
+
+At st. Mary's we continue to server our community in several ways. 
