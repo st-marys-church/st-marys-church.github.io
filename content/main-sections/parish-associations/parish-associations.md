@@ -3,9 +3,7 @@ title: Parish council & Associations
 description: Parish council & Associations
 ---
 
-![Parish council & Associations](Associations.png)
 
-<br />
 
 [Parish Pastoral Council & Sub committees](/associations/parish-council)
 

@@ -4,7 +4,6 @@ description: Sunday School
 date: 2020-04-16T11:00:00.000Z
 ---
 
-![SundaySchool](SundaySchool.png)
 
 **Sunday School was established in 1990.**
 

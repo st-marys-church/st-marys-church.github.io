@@ -4,7 +4,6 @@ description: The Altar Servers Association
 date: 2020-04-16T11:00:00.000Z
 ---
 
-![AlterServers](AlterServers.png)
 
 “Alter Server” name comes from the Latin word “ministrare” means ‘’to serve’’. Their role is recognized by the Conciliar Constitution as an integral part of the liturgy office, and as such demands, conduct and behavior from those who serve that is in keeping with its obligations.  St. Mary’s Parish is giving a solemn concentration towards developing liturgically trained Alter Servers and they are selected from the Sunday school of the children those who have received the Holy Communion Sacrament. 
 
