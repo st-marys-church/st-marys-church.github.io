@@ -40,7 +40,7 @@ const Header = () => {
               </a>
         </Link>
         &nbsp; | &nbsp;
-        <Link href={"/blog"} as={`/blog`}>
+        <Link href={"/parish-associations"} as={`/parish-associations`}>
           <a className="">
             Parish council &amp; Associations
           </a>

@@ -5,7 +5,7 @@ import fs from "fs";
 export function getPostsFolders() {
   // Get all posts folders located in `content/posts`
   const postsFolders = fs
-    .readdirSync(`${process.cwd()}/content/posts`)
+    .readdirSync(`${process.cwd()}/content/associations`)
     .map((folderName) => ({
       directory: folderName,
       filename: `${folderName}.md`,
@@ -29,7 +29,7 @@ export function getSortedPosts() {
     .map(({ filename, directory }) => {
       // Get raw content from file
       const markdownWithMetadata = fs
-        .readFileSync(`content/posts/${directory}/${filename}`)
+        .readFileSync(`content/associations/${directory}/${filename}`)
         .toString();
 
       // Parse markdown, get frontmatter data, excerpt and content.
