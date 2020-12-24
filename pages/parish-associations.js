@@ -25,7 +25,7 @@ export default function Post({ post, frontmatter }) {
           className="mb-4 prose lg:prose-lg dark:prose-dark"
           escapeHtml={false}
           source={post.content}
-          renderers={{ code: CodeBlock, image: MarkdownImage }}
+          renderers={{ code: CodeBlock, image: MarkdownImage, link: LinkRenderer }}
         />
         <hr className="mt-4" />
       </article>
@@ -73,3 +73,7 @@ const MarkdownImage = ({ alt, src }) => (
     className="w-full"
   />
 );
+
+function LinkRenderer(props) {
+  return <Link href={props.href}><a>{props.children}</a></Link>
+}
