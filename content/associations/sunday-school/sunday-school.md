@@ -4,6 +4,8 @@ description: Sunday School
 date: 2020-04-16T11:00:00.000Z
 ---
 
+![SundaySchool](SundaySchool.png)
+
 **Sunday School was established in 1990.**
 
 Sunday schools in Sri Lanka was initiated by the Catholic mission soon after receiving  independence due to the reason of all the catholic schools were taken under the government and in order to give more emphasys to the religion, the catholic mission initiated Sunday schools at the time of Cardinal Cooray and with the inputs of Rev Fr. D.J. Anthoney.  Then this system was networked through the island via a center of catechism.  Sooner the Buddhists too followed this system as per the history.
