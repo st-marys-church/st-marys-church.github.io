@@ -13,7 +13,7 @@ export default function Home({ left, right }) {
     <Layout>
       <SEO title="Home" />
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           {left.map((section) => {
             return <div className="home-section">
               <ReactMarkdown
@@ -24,7 +24,7 @@ export default function Home({ left, right }) {
             </div>;
           })}
         </div>
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           {right.map((section) => {
             return <div className="home-section">
               <ReactMarkdown

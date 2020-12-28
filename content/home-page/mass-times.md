@@ -4,26 +4,36 @@ side: left
 order: 1
 ---
 
-### Regular Services at St. Mary's
+### New Year Day Services at St. Mary's
 
-**Week Day Masses**
-- Monday, Tuesday and Thursday - 6:00 AM
-- Wednesday and Friday - 12:30 pm and 6.30 pm 
- 
-**Week End Masses**
-- Saturday - 6:30 AM and 6:15 pm
-- Sunday - 7:00 am *, 8:30 am, 10:30 am and 6:00 pm
+**31 st Night (Tuesday) Masses**
+* Tuesday 11:00 P.M Prayer Service followed by holy Mass at midnight
 
+**01 st January 2021 Masses**
 
-**Novenas**
+* 06:00 AM
+* 08:30 AM
+* 12:15 PM
+* 05.30 PM Holy Hour
+* 06.30 PM Holy Mass
 
-- Wednesday - 6.10 pm  Novena to the Holy Spirit followed by Holy Mass.
+Please note that seating is Limited for each mass due to the prevailing situation. Please
+maintain distance and wear masks at all times.
+5 masses for new year ( which is a day of obligation - feast of Mary Mother of God) have
+been arranged so that we can accommodate maximum numbers.
 
-**Adoration of the Blessed Sacrament**
+### January 2nd and 3rd 2021 Services at St. Mary's
 
-- Friday - 6.00 pm followed by Holy Mass
+**January 02 nd Saturday**
+* 07:00 AM
+(mass on 01 st Saturday will be held in the grotto, Subject to Weather conditions)
+* 06:15 Mass (Valid for Sunday Obligation)
 
- 
+**January 03 rd Sunday**
+* 07.00 AM
+* 08.30 AM
+* 10.30 AM
+* 12.00 NOON
+* 06.00 PM.
 
-\* 7:00am Mass 1st Sunday (Sinhala), 3rd Sunday (Tamil). All Masses are in English except where noted
-Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
+For our revised Regular mass time please check the [information page](./information/).
