@@ -21,12 +21,12 @@ order: 1
  - Every First Friday of the Month 05:30 – 6:30 Holy Hour followed by Holy Mass.
 
 **Week End Masses** 
-* Saturday * 
+**Saturday** 
 
 - 07:00 AM (mass on 01 st Saturday will be held in the grotto, Subject to Weather conditions)
 - 06:15 Mass (Valid for Sunday Obligation)
 
-* Sunday * 
+**Sunday**
 - 07:00 AM (1st Sunday in Sinhala and 3rd Sunday in Tamil)
 - 08:30 AM
 - 10:30 AM
