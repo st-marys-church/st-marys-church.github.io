@@ -77,3 +77,64 @@ Nirasha
 
 
 nirashagomez [at] hotmail.com
+
+
+## St. Mary’s Choral Group
+
+The present St. Mary&#39;s Choral Group began as the Youth Choir of St. Mary&#39;s Church in 1973 when
+Redemptorist Priests Rev. Fr. Gino Henriques &amp; Rev. Fr. Shanti Abeysingha conducted a youth
+program at St Mary&#39;s and introduced a more vibrant style of music to the Mass. The parish priest at that time
+was Fr. Basil Weeratunge, and his Assistant was Rev. Fr. Reginald Saparamadhu. It was in many
+ways an off-shoot of the St. Mary&#39;s Choral Group (SMCG) and Youth Choir begun by the Rome-
+ordained Rev. Fr. Claver Perera when he was Assistant Parish Priest, in 1967 as it comprised mostly
+the members of those choirs.
+
+The initial selection of the youth choir music comprised of songs such as; *My Sweet Lord, I&#39;d like to teach the world to sing* , and selections from the off-Broadway musical *Godspell*.
+
+The choir grew informally by word of mouth, the average age being 19. Soon the choir was singing at
+the 8.30am Sunday mass, continuing to call themselves the Youth Choir - maybe justified by the
+selection of music and youthful attitude of its members some of whom may not technically have
+been youth anymore! Perhaps the name was also prompted by the fact that St Mary’s has for many
+years prided itself in having an outstanding Church Choir conducted at that time by renowned late
+Prof. Earle de Fonseka with a membership of many renowned singers including the late Lorraine
+Abeysekera, Bede de Zilwa, and Mary Anne David - the last still contributes to the music world.
+Hence the label youth choir was more an aspect of differentiation!
+
+Though it initially began with guitars, there was the addition of an organ which accompanied a
+mixture of modern songs and ballads such as He aint heavy he’s my brother and songs by the
+Beatles, Bread, Blood Sweat and Tears and Queen. More instruments such as bass and electric
+guitars, saxophone, piano, clarinet and flute were added in 1978.
+
+In 1980 Fr. Claver, the new parish priest guided the Youth Choir and introduced serious mixed voice
+choral harmonies. He further shared his experience in Italy. Fr. Claver built up the Choir&#39;s repertoire
+in Choral music and plainchant. The Parish invested in a Viscount Domus 8 organ for the church,
+further enriching the standard of the choir. In 1986 the choir under the direction of Fr. Claver,
+released its first cassette titled Pass it On which was popular and widely sought.
+
+The choir went on to perform at concert venues, hotels in Colombo, Choral festivals and at the
+National Seminary in Ampitiya. A major milestone was its participation in the Mozart Death
+Bicentenary Choral Festival held at the Anglican Cathedral of Christ the Living Saviour by the late
+Kalasuri Lylie Godridge. The introduction of a Yamaha EL90, enhanced the singing further with a
+wider repertoire.
+
+In June 2007 the choir changed its name to St. Mary&#39;s Choral Group or SMCG, a name dating from
+Fr. Claver&#39;s original male voice choir of 1967. The choir still sings at the 8.30am Sunday Eucharistic
+Celebration which is its primary function.
+
+It also sings for the Church Feast, selected other major Feasts of the Church, Easter Tridium services
+the annual Carol Service, and Christmas Midnight Mass. Most of its current members are non-
+parishioners, and are students or working professionals, giving of their time and talent. It could be
+said that the secret of its continuity and success in singing comes from a common love of music, and
+good camaraderie and a solid foundation laid by Fr. Claver and many of its past conductors /
+directors. By the presence of several generations of its past and present members continuing to
+contribute and sing for the love of it and in the realisation that good music, makes the liturgy more
+inspirational. The challenge it faces is the need to keep the momentum with bringing in new
+members, new thinking ,and expansion of its repertoire ,to be constantly innovating so that
+especially the liturgy would be living and evolving for the better.
+
+
+<div class="col-8" style="margin:auto">
+
+![St. Mary’s Choral Group](choral_group.jpeg)
+
+</div>

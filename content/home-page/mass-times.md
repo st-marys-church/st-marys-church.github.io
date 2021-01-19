@@ -6,12 +6,12 @@ order: 1
 
 ### New Year Day Services at St. Mary's
 
-**31 st Night (Tuesday) Masses**
+**31 st Night (Thursday) Masses**
 * Tuesday 11:00 P.M Prayer Service followed by holy Mass at midnight
 
 **01 st January 2021 Masses**
 
-* 06:00 AM
+* 06:30 AM
 * 08:30 AM
 * 12:15 PM
 * 05.30 PM Holy Hour
@@ -27,10 +27,10 @@ been arranged so that we can accommodate maximum numbers.
 **January 02 nd Saturday**
 * 07:00 AM
 (mass on 01 st Saturday will be held in the grotto, Subject to Weather conditions)
-* 06:15 Mass (Valid for Sunday Obligation)
+* 06:15 PM Mass (Valid for Sunday Obligation)
 
 **January 03 rd Sunday**
-* 07.00 AM
+* 07.00 AM (Mass in Sinhala)
 * 08.30 AM
 * 10.30 AM
 * 12.00 NOON
