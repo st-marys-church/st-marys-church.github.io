@@ -18,17 +18,17 @@ order: 1
 * Wednesday – 6:10 pm Novena to the Holy Spirit followed by Holy Mass.
 * Friday – 06.30 Novena to Infant Jesus followed by Holy Mass.
 
-**  Holy Hour ** 
+**Holy Hour** 
 
 * Every First Friday of the Month 05:30 – 6:30 Holy Hour followed by Holy Mass.
 
-** Week End Masses**
-* Saturday
+**Week End Masses**
+**Saturday**
 
 * 07:00 AM (mass on 01 st Saturday will be held in the grotto, Subject to Weather conditions)
 * 06:15 Mass (Valid for Sunday Obligation)
 
-* Sunday
+**Sunday**
 
 * 07:00 AM
 * 08:30 AM
