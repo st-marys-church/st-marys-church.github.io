@@ -36,4 +36,4 @@ order: 1
 * 12:00 NOON
 * 06:00 PM.
 
-* 7:00am Mass 1st Sunday (Sinhala), 3rd Sunday (Tamil). All Masses are in English except where noted. Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
+*7:00am Mass 1st Sunday (Sinhala), 3rd Sunday (Tamil). All Masses are in English except where noted. Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
