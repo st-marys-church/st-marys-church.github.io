@@ -12,9 +12,10 @@ Rev Fr, Trevor Martin and the faithful welcome you to the Church of St. Mary. We
 
 
 ### Annoucements 
-- The Independence Day mass will be at 7 am on the 4 th February ( Thursday). It is a feast day of the solemnity of Our Lady of Lanka.
+- The feast of the  Presentation of our Lord at the temple is celebrated on the 2nd February 2021 at the 6.30 am mass. All worshippers are encouraged to bring their own candles and have them blessed.
+- The Independence Day mass will be at 7 am on  4 th February ( Thursday). It is a feast day of the solemnity of Our Lady of Lanka.
 - A special Anniversary mass has been organized on 4th week of every month, couples who celebrate their wedding anniversaries for that particular month and who wish to participate, please contact the parish priest (frtrevorg1@gmail.com , 0773277722) or Mrs. Nirasha Gomaz (nirashagomez@hotmail.com, 077-728-0759) on or before the 2rd Sunday of each month).
 - A penitential and healing service will be arranged once a month on the second Tuesday of each month commencing February 11th at 6.00 pm. in order to facilitate healing through faith.
-- In order to enhance our spiritual knowledge a bible study session will be held once a month on the 4th Thursday of each month commencing 28th January 2021 from 6 to 7 pm.
+- In order to enhance our spiritual knowledge a bible study session will be held once a month on the 4th Thursday of each month commencing 28th January 2021 from 6 to 7.30 pm.
 
 
