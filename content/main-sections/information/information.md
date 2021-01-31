@@ -37,4 +37,4 @@ Every First Friday of the Month 05:30 – 6:30 Holy Hour followed by Holy Mass.
 * 06:00 PM.
 
 \* 7:00am Mass 1st Sunday (Sinhala), 3rd Sunday (Tamil). All Masses are in English
-except where noted. Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
+except where noted. 
