@@ -25,3 +25,8 @@ description: Parish council & Associations
 
 [St. Mary’s Choirs](/associations/choirs)
 
+
+[Holy Childhood](/associations/holy-child)
+
+
+[Marriage Encounter](/associations/holy-child)
