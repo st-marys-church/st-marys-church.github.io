@@ -40,7 +40,7 @@ Kids participate in Archdiocesan level , Denary level and Parish level activitie
 * Lenten way of the Cross & Geetha Bhawana 
 * Sinhala & Tamil New Year celebrations 
 * Kite festival 
-* Activity Day /
+* Activity Day 
 * Rosary Rally 
 * Christmas Party & felicitation of Animators.
 
@@ -67,6 +67,6 @@ We have several activities planned throughout the year, watch this space for upd
 * November - Offering of masses for the dearly departed
 * December - Children helping children program
 
-** Contact Information for more information or to Join:** 
+**Contact Information for more information or to Join:** 
 Amali De Silva - 0777425015
 
