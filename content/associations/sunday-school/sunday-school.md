@@ -70,7 +70,7 @@ Following is the volunteer teachers past and present who have contributed to the
       <br />
       Niroshani Wanniarachchi
       <br />
-      Pravinda David
+      Pravinda Daniel Anthony
       <br />
       Rukshini Micheal
       <br />
