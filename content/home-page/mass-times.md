@@ -4,11 +4,6 @@ side: left
 order: 1
 ---
 
-### Ash Wednesday Mass Times at St.Mary's 
-* 6.30 am 
-* 12.15 pm
-* 6.30 pm
-
 ### Regular Services at St. Mary's
 
 **Week Day Masses**
