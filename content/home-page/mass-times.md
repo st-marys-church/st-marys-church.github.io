@@ -28,7 +28,7 @@ order: 1
 
 **Good Friday Service** 
 * 3.00 PM 
-* 5.30 PM
+* 6.00 PM
 
 **Veneration of Cross**
 Please adhere to the health regulations. 
