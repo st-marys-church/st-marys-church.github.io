@@ -7,9 +7,9 @@ date: 2020-04-16T11:00:00.000Z
 
 **Sunday School was established in 1990.**
 
-Sunday schools in Sri Lanka was initiated by the Catholic mission soon after receiving  independence due to the reason of all the catholic schools were taken under the government and in order to give more emphasys to the religion, the catholic mission initiated Sunday schools at the time of Cardinal Cooray and with the inputs of Rev Fr. D.J. Anthoney.  Then this system was networked through the island via a center of catechism.  Sooner the Buddhists too followed this system as per the history.
+Sunday schools in Sri Lanka was initiated by the Catholic mission soon after receiving  independence due to the reason of all the catholic schools were taken under the government and in order to give more emphasis to the religion, the catholic mission initiated Sunday schools at the time of Cardinal Cooray and with the inputs of Rev Fr. D.J. Anthoney.  Then this system was networked through the island via a center of catechism.  Sooner the Buddhists too followed this system as per the history.
 
-Sunday School in Bambalapitiya parish was in active for a quite a long time.  However it was revamped in the year 2008 at the time of centenary year of the parish.  This includes;   Installing 11 teachers;  identifying all 3 mediums (Sinhala/English & Tamil) to be facilitated, initiating a the 10.30 mass as the childrens mass are 3 mile stones taken place at this stage.  Today our Sunday school has approximately 270 children and 33 teachers from KG to year 11 in 3 mediums.
+Sunday School in Bambalapitiya parish was in active for a quite a long time.  However it was revamped in the year 2008 at the time of centenary year of the parish.  This includes;   Installing 11 teachers;  identifying all 3 mediums (Sinhala/English & Tamil) to be facilitated, initiating a the 10.30 mass as the children’s mass are 3 mile stones taken place at this stage.  Today our Sunday school has approximately 270 children and 33 teachers from KG to year 11 in 3 mediums.
 
 Despite investing many hours in hard work in preparing and acquiring knowledge each week the following activities are being conducted by the Sunday School teams.
 
@@ -128,13 +128,10 @@ Following is the volunteer teachers past and present who have contributed to the
 </table>
 
 <br />
- The principal of the sunday school is the parish priest assisted with 3 coordinators for each medium. 
+ The principal of the sunday school is the parish priest assisted a vice principal. 
 
  **Contact Information –**
+ Principal : Fr.Trevor Martin (Parish Priest) , 
 
-English Medium head teacher – Nilukshi Fonseka 077-770-5500 
-
-Tamil Medium head teacher – Ms. Rukshini -  077-248-8676
-
-Sinhala Medium head teacher – Ganga Jasenthuliyana – 077-311-8101
+Vice Principal : Sharron Steinwall - 077-359-3779
 
