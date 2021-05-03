@@ -5,9 +5,9 @@ order: 1
 ---
 ###  Special Notice on COVID 
 **All regular services of the church will be halted due to the current situation in the country.  We will inform once the regular services will commence. .**
-*  All worshiper are requested to adhere to the COVID regulations when entering the church/
-* A face mask is Mandatory
-* Please maintain social distancing 
+*  All worshiper are requested to adhere to the COVID regulations when entering the church
+* A face mask is mandatory
+* Please maintain social distancing at all times. 
 * Sanitize hand before entering the church. 
 * A temperature  check will be taken upon entering the church. 
 
