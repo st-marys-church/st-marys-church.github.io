@@ -3,47 +3,13 @@ title: Regular Services at St. Mary's
 side: left
 order: 1
 ---
-### Holy Week Services at St. Mary's
-**Palm Sunday Masses as per the regular service.**
-
-**Maundy Thursday  Services**
-* 4:00 PM
-* 6:30 PM
-*Please refrain from brining bread due to the current Health Regulations. 
-
-**Holy Hours on Maundy Thursday**
-* 8.00 to 8.45 conducted by Sunday School and Alter Servers 
-* 8.45 to 9.45 PM. conducted by all Societies ( SHC, LEGION, SVP)
-* 9.45 to 10.15 PM. conducted by Sinhala Half Hour 
-* 10.15 to 10.45 PM. conducted by Tamil Half Hour
-* 1O.45 to 11.15 PM conducted by Youth
-* 11.15 to MIDNIGHT - Parish Hour
-
-**Good Friday Services**
-
-**Way of the Cross** 
- * 7.00 AM  ( ENGLISH )
- * 8.30 AM (SINHALA) 
- * 10.00 AM  (TAMIL) 
-
-**Good Friday Service** 
-* 3.00 PM 
-* 6.00 PM
-
-**Veneration of Cross**
-Please adhere to the health regulations. 
-
-**Holy Saturday**
-* 7.00 PM.... (Presided by HIS EXCELLENCY, ARCHBISHOP BRIAN UDAIGWE, THE APOSTOLIC NUNCIO IN SRI LANKA) 
-* 10:00 PM
-
-**Easter Sunday**
-* 7.00 AM
-* 8.30 AM 
-* 10.30 AM
-* 12 Noon
-
-*Please note all masses will be English and **NO** evening Mass on Easter Sunday. 
+###  Special Notice on COVID 
+**All regular services of the church will be halted due to the current situation in the country.  We will inform once the regular services will commence. .**
+*  All worshiper are requested to adhere to the COVID regulations when entering the church/
+* A face mask is Mandatory
+* Please maintain social distancing 
+* Sanitize hand before entering the church. 
+* A temperature  check will be taken upon entering the church. 
 
 ### Regular Services at St. Mary's
 
