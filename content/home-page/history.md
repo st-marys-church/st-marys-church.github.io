@@ -12,7 +12,41 @@ Rev Fr, Trevor Martin and the faithful welcome you to the Church of St. Mary. We
 
 
 ### Announcements 
-- A special Anniversary mass has been organized on 4th week of every month, couples who celebrate their wedding anniversaries for that particular month and who wish to participate, please contact the parish priest (frtrevorg1@gmail.com , 0773277722) or Mrs. Nirasha Gomaz (nirashagomez@hotmail.com, 077-728-0759) on or before the 2rd Sunday of each month).
+- Parishioners, worshipers & members of Associations who wish to may come to St. Mary's church,  Bambalapitiya at the times given to Receive Holy Communion, on all week days and Saturdays. ( Other than Sunday)
+   * 7.30 AM
+   * 12.30 PM
+   * 5.30 PM
+
+- SACRAMENT OF HOLY COMMUNION & SACRAMENT OF CONFIRMATION 
+We welcome children who wish to receive the sacrament of holy communion and the sacrament of Confirmation. 
+
+Please  give in your names to the vice principal of Sunday School, Mrs. Sharron Steinwall, without delay.
+Mobile : 0773593779
+
+- DISTRIBUTIONN  OF  DRY  RATIONS
+With the current situation faced by one and all, a help line has been opened, to supply dry rations and other essentials  for the parishioners and residents of the area,  who need assistance. So far we have distributed 5,batches and we hope to continue this programme for the next few weeks as well. Any person who wishes to contribute to this worthy project, may use the options given below.
+
+  * Account Number  : *0390 1022 4935
+  * Account Name : PARISH PRIEST, ST MARYS CHURCH BAMBALAPITIYA
+  * Bank  : Hatton National Bank
+  * Branch  : Bambalapitiya
+  * Under Narration....please state your name and the word *HELP*
+  * Example... A B C PERERA* . HELP
+
+Thank you for your Kindness and generosity.
+
+God bless...
+
+Fr Trevor Martin.
+
+- DHARMACHARAYA  EXAMS.
+20 teachers have registered and are preparing to sit the Dharmacharaya Exams which will be held in October this year. 2 will be sitting for the final exam, dharmacharaya 3 , while 18 will sit the initial exam.
+
+- RESUMING OF SUNDAY SCHOOL CLASSES ON ZOOM
+Sunday school Zoom classes commenced a few weeks back and there has been excellent attendance thus far. We have completed 3 sessions.
+Special thanks go out to all teachers, who cooperated fully preparing lessons so as to make them meaningful and interesting for the children.
+The attendance was noteworthy....with new children joining in, some even from overseas.
+We also thank the parents for their time and commitment and trust the good work will continue.      
 
 
-
+*last update: 14/07/2021
