@@ -5,6 +5,13 @@ order: 1
 ---
 ###  Special Notice on COVID 
 **All regular services of the church will be halted due to the current situation in the country.  We will inform once the regular services will commence. .**
+
+**- SUNDAY  ZOOM  MASS  LIVE  FROM  ST.  MARYS  CHURCH** 
+ * Until the Arch bishops house confirms regular Sunday masses in churches,  we will continue our zoom mass every Sunday at 10.00 am . Please participate in your parish mass and inform others as well. Please note the Meeting ID and Pass code below. 
+ 
+ ![St. Mary's Church](zoom.jpg)
+
+**Please check the below COVID regulations when visiting the church.**
 *  All worshippers are requested to adhere to the COVID regulations when entering the church.
 * A face mask is mandatory.
 * Please maintain social distancing at all times. 
