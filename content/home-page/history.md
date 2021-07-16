@@ -12,11 +12,6 @@ Rev Fr, Trevor Martin and the faithful welcome you to the Church of St. Mary. We
 
 
 ### Announcements 
-- Parishioners, worshipers & members of Associations who wish to may come to St. Mary's church,  Bambalapitiya at the times given to Receive Holy Communion, on all week days and Saturdays. ( Other than Sunday)
-   * 7.30 AM
-   * 12.30 PM
-   * 5.30 PM
-
 - SACRAMENT OF HOLY COMMUNION & SACRAMENT OF CONFIRMATION 
 We welcome children who wish to receive the sacrament of holy communion and the sacrament of Confirmation. 
 
