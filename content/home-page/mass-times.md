@@ -4,8 +4,9 @@ side: left
 order: 1
 ---
 ### IMPORTANT ANNOUNCEMENT ON COMMENCING REGULAR SERVICES.                  
-Dear Parishioners & Worshippers, We are happy to let you know that Holy Mass will commence as per regular times from Saturday morning. Please refer below the regular mass schedule.                                 
-Please also note that today, Friday 16, We will have Holy mass at 12.30 pm  and  6.00 pm. No infant Jesus novena today.
+In view of the  message below received from His Eminence, Malcolm Cardinal Ranjith, all week day masses commencing  tomorrow morn 7 am , will be valid for the Sunday obligation.
+
+Mass times for your easy reference .....
  
 **Please check the below COVID regulations when visiting the church.**
 *  All worshippers are requested to adhere to the COVID regulations when entering the church.
