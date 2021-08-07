@@ -3,6 +3,9 @@ title: Information
 description: Information
 ---
 
+In view of the  message below received from His Eminence, Malcolm Cardinal Ranjith, all week day masses commencing  tomorrow morn 7 am , will be valid for the Sunday obligation.
+
+Mass times for your easy reference .....
 
 ## Regular Services at St. Mary&#39;s
 
