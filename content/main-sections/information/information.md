@@ -3,9 +3,12 @@ title: Information
 description: Information
 ---
 
-In view of the  message below received from His Eminence, Malcolm Cardinal Ranjith, all week day masses commencing  tomorrow morn 7 am , will be valid for the Sunday obligation.
+**IMPORTANT ANNOUNCEMET**
 
-Mass times for your easy reference .....
+All masses in the Colombo arch diocese will not be held  ( (cancelled) with effect from Sunday the 15 the, August , for a period of three weeks. ( this includes 3 Sundays and all week days as well.)
+
+Weddings at st Mary's will be held as scheduled , with strict covid regulations in force. The numbers at weddings will be determined by the PHI division and the church will abide by that decision.
+
 
 ## Regular Services at St. Mary&#39;s
 
