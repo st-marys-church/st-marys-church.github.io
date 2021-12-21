@@ -2,6 +2,7 @@
 title: Information
 description: Information
 ---
+**Confessions - on 22nd and 23rd from 5.00 PM** 
 
 ## Chirstmas Mass Shcedule St. Mary&#39;s
 
