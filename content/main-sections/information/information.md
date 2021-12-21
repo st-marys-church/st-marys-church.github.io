@@ -3,14 +3,30 @@ title: Information
 description: Information
 ---
 
-**IMPORTANT ANNOUNCEMET**
+## Chirstmas Mass Shcedule St. Mary&#39;s
 
-All masses in the Colombo arch diocese will not be held  ( (cancelled) with effect from Sunday the 15 the, August , for a period of three weeks. ( this includes 3 Sundays and all week days as well.)
+**24th December Christmas Eve**  
+* 6.00 PM
+* 8.30 PM
+* 11.00 PM (CAROLS PRIOR TO MIDNIGHT MASS)
+* 11.45PM  MIDNIGHT MASS
+*
+**25TH December Christmas Day**
 
-Weddings at st Mary's will be held as scheduled , with strict covid regulations in force. The numbers at weddings will be determined by the PHI division and the church will abide by that decision.
+* 8.00 AM.
+* 10.30 AM
+* 12.00 NOON 
+
+**THERE WILL BE NO EVENING MASS. and ALL MASSES WILL BE IN ENGLISH**
+
+*Please Adhere to all health guidlenes and corporate with us. 
+*Please spread out and come for different masses, and DO NOT OVER CROWD ONE SERVICE. 
+
+**HOLY INNOCENCE  DAY**
+28TH December  - Benediction at 6.00 PM. Followed by  Carols by the Childens Choir, All are welcome to join with their children for ths special belssing. Please bring a gift to be handed over to the less fortunate child. 
 
 
-## Regular Services at St. Mary&#39;s
+## Regular Masses 
 
 #### Week Day Masses
 
