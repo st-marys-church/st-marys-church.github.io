@@ -2,29 +2,19 @@
 title: Information
 description: Information
 ---
-**Confessions - on 22nd and 23rd from 5.00 PM** 
+## Programme for Thanksgiving Service on the 31st December , mid night mass, and masses for 1st January 2022. 
 
-## Chirstmas Mass Shcedule St. Mary&#39;s
+ **Day of obligation. Feast of Mary Mother of God** 
 
-**24th December Christmas Eve**  
-* 6.00 PM
-* 8.30 PM
-* 11.00 PM (CAROLS PRIOR TO MIDNIGHT MASS)
-* 11.45PM  MIDNIGHT MASS
-*
-**25TH December Christmas Day**
+**Mass Times: December 31st**
+* 11.00 PM Thanksgiving service & Benediction 
+* 11.45 PM Commencement of Midnight mass 
 
-* 8.00 AM.
-* 10.30 AM
-* 12.00 NOON 
-
-**THERE WILL BE NO EVENING MASS. and ALL MASSES WILL BE IN ENGLISH**
-
-*Please Adhere to all health guidlenes and corporate with us. 
-*Please spread out and come for different masses, and DO NOT OVER CROWD ONE SERVICE. 
-
-**HOLY INNOCENCE  DAY**
-28TH December  - Benediction at 6.00 PM. Followed by  Carols by the Childens Choir, All are welcome to join with their children for ths special belssing. Please bring a gift to be handed over to the less fortunate child. 
+ **Mass Time: January 1st 2022** 
+ * 8.30am
+* 10.30am
+* 12.00 Noon.
+* 6.15 pm mass will be a regular Saturday evening Mass valid for Sunday obligation.
 
 
 ## Regular Masses 
