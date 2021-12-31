@@ -4,7 +4,7 @@ side: left
 order: 1
 ---
 
-## Programme for thanksgiving service on the 31st December , mid night mass, and masses for 1st January 2022. 
+## Programme for Thanksgiving Service on the 31st December , mid night mass, and masses for 1st January 2022. 
 
  **Day of obligation. Feast of Mary Mother of God** 
 
