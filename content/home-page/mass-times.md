@@ -4,7 +4,9 @@ side: left
 order: 1
 ---
 
-## Programme for Thanksgiving Service on the 31st December , mid night mass, and masses for 1st January 2022. 
+## Programme for Thanksgiving Service on the 31st December , mid night mass, and masses for 1st January 2022.
+
+For new year masses commencing midnight,  Please feel free to bring in your own  offertory and join the offertory procession.
 
  **Day of obligation. Feast of Mary Mother of God** 
 
@@ -38,6 +40,12 @@ order: 1
 
 * Wednesday – 6:10 pm Novena to the Holy Spirit followed by Holy Mass.
 * Friday – 06.30 Novena to Infant Jesus followed by Holy Mass.
+
+Rev Fr. Augustine Vallooran  will be conducting the Holy Spirit Novena from 5th January 2022. (Wednesday)
+The Holy spirit Novena will commence at 6.10pm, as usual, followed by Holy Mass at 6.30 pm.
+
+ **IMPORTANT**
+From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY ( commencing 11th Jan), with 15 minutes of praise and worship at 6.15pm, followed by Novena  mass at 6.30pm.
 
 **Holy Hour** 
 
