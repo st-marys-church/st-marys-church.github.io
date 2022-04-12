@@ -54,3 +54,5 @@ From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY 
 * Sanitize hand before entering the church. 
 * A temperature  check will be taken upon entering the church. 
 
+
+
