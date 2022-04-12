@@ -2,24 +2,52 @@
 title: Information
 description: Information
 ---
-## Programme for Thanksgiving Service on the 31st December , mid night mass, and masses for 1st January 2022. 
+---
+### HOLY WEEK. SERVICE TIMES 2022
+THERE WILL BE NO HOLY SPIRIT NOVENA ON TUESDAY 
+HOLY HOUR AND BENEDICTION WILL BE HELD ON MONDAY , TUESDAY AND WEDNESDAY AT 6.00 PM.
+NO AFTERNOON MASS ON WEDNESDAY
+MORNING MASS AT 6.30 AM ON ALL THREE DAYS , MONDAY, TUESDAY AND WEDNESDAY
 
- **Day of obligation. Feast of Mary Mother of God** 
+**MAUNDY THURSDAY**
+* 4.00 pm SERVICE 
+* 6.30 pm SERVICE 
 
-**Mass Times: December 31st**
-* 11.00 PM Thanksgiving service & Benediction 
-* 11.45 PM Commencement of Midnight mass 
+*WASHIING OF FEET AT BOTH MASSES
 
- **Mass Time: January 1st 2022** 
- * 8.30am
-* 10.30am
-* 12.00 Noon.
-* 6.15 pm mass will be a regular Saturday evening Mass valid for Sunday obligation.
+ **HOLY HOURS**
+* 8.00 TO 8.45 SUNDAY SCHOOL / ALTAR SERVERS
+* 8.45 TO 9.45 PM. ALL SODALITIES ( SHC, LEGION, SVP)
+* 9.45 to 10.15 ..SINHALA HALF HOUR 
+* 10.15 TO 10.45 TAMIL HALF HOUR.
+* 1O.45 TO 11.15 YOUTH
+* 11.15 TO MIDNIGHT . PARISH HOUR 
 
-*For new year masses commencing midnight,  Please feel free to bring in your own  offertory and join the offertory procession*
+**GOOD FRIDAY**
+**WAY OF THE CROSS.**
+ * 7.00 AM ENGLISH
+ * 8.30 AM SINHALA
+ * 10.00 AM TAMIL
 
-14th January 2022 will be a special day of prayer organised by the different  dioceses, at Tewatte, Ragama.
-Details of programmes and times will be notified in due course.
+**GOOD FRIDAY SERVICE**  
+* 3.00 PM
+* 6.00 PM
+
+ **HOLY SATURDAY** 
+* 7.00 pm
+HOLY MASS ORGANIZED BY SMCG 
+PRECIDED BY HIS EXCELLENCY, ARCHBISHOP BRIAN UDAIGWE, THE APOSTOLIC NUNCIO IN SRI LANKA
+
+ * SECOND MASS 10.00 PM
+
+**EASTER SUNDAY*
+
+* 7.00 am
+* 8.30 am 
+* 10.30 am
+* 12 Noon 
+
+ALL MASSES IN ENGLISHTHERE WILL BE NO EVENING MASS
 
  **Anniversary masses** 
 There will be a special mass for Couples celebrating  their wedding  Anniversaries, from January 2022, every 4th week.
