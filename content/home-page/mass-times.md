@@ -3,51 +3,81 @@ title: Regular Services at St. Mary's
 side: left
 order: 1
 ---
-### HOLY WEEK. SERVICE TIMES 2022
-THERE WILL BE NO HOLY SPIRIT NOVENA ON TUESDAY 
-HOLY HOUR AND BENEDICTION WILL BE HELD ON MONDAY , TUESDAY AND WEDNESDAY AT 6.00 PM.
-NO AFTERNOON MASS ON WEDNESDAY
-MORNING MASS AT 6.30 AM ON ALL THREE DAYS , MONDAY, TUESDAY AND WEDNESDAY
+###
 
-**MAUNDY THURSDAY**
-* 4.00 pm SERVICE 
-* 6.30 pm SERVICE 
 
-*WASHIING OF FEET AT BOTH MASSES
+2023
+HOLY WEEK SERVICES AT ST.MARY'S CHURCH, BAMBALAPITIYA
+PALM SUNDAY
+(blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
 
- **HOLY HOURS**
-* 8.00 TO 8.45 SUNDAY SCHOOL / ALTAR SERVERS
-* 8.45 TO 9.45 PM. ALL SODALITIES ( SHC, LEGION, SVP)
-* 9.45 to 10.15 ..SINHALA HALF HOUR 
-* 10.15 TO 10.45 TAMIL HALF HOUR.
-* 1O.45 TO 11.15 YOUTH
-* 11.15 TO MIDNIGHT . PARISH HOUR 
+1st April (Saturday)
+6.15pm
 
-**GOOD FRIDAY**
-**WAY OF THE CROSS.**
- * 7.00 AM ENGLISH
- * 8.30 AM SINHALA
- * 10.00 AM TAMIL
+2nd April 
+(Sunday)
+7.00AM
+8.30AM
+10.30AM
+12.00 Noon
+6.00PM
 
-**GOOD FRIDAY SERVICE**  
-* 3.00 PM
-* 6.00 PM
+(all service in English.)
 
- **HOLY SATURDAY** 
-* 7.00 pm
-HOLY MASS ORGANIZED BY SMCG 
-PRECIDED BY HIS EXCELLENCY, ARCHBISHOP BRIAN UDAIGWE, THE APOSTOLIC NUNCIO IN SRI LANKA
+April 3rd, 4th & 5th
+WEEKDAY MASSES: as usual
 
- * SECOND MASS 10.00 PM
+MAUNDY THURSDAY
+6th April 
+There will be no morning masses.
 
-**EASTER SUNDAY*
+Evening service at 6.30PM
 
-* 7.00 am
-* 8.30 am 
-* 10.30 am
-* 12 Noon 
+HOLY HOURS ON MAUNDY THURSDAY. - 
+6th April 2023
 
-ALL MASSES IN ENGLISHTHERE WILL BE NO EVENING MASS
+8.00 TO 8.45 PM
+SUNDAY SCHOOL
+ALTAR SERVERS
+HOLY CHILDHOOD
+
+8.45 TO 9.30 PM
+ALL SODALITIES
+
+9.30 - 10.15 PM
+YOUTH ASSOCIATION 
+
+10.15 TO 10.45PM SINHALA COMMUNITY 
+10.45 TO 11.15 PM TAMIL COMMUNITY 
+
+11.15 PM TO MID NIGHT - PARISH HOUR, WITH CHOIRS.
+
+GOOD FRIDAY
+7th April 
+
+Way of the cross:
+English 7.00AM
+Sinhala 8.30AM
+Tamil 10.00AM
+
+Evening service at 4.00PM
+
+HOLY SATURDAY
+8th April
+
+Blessing of the Fire and Water
+Service at
+7.00PM
+
+EASTER SUNDAY 
+9TH April
+
+7.00AM
+8.30Am
+10.30Am
+12.00Noon 
+
+THERE WILL BE NO EVENING MASSES 
 
 ### Regular Services at St. Mary's
 
@@ -100,5 +130,5 @@ From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY 
 * Sanitize hand before entering the church. 
 * A temperature  check will be taken upon entering the church. 
 
-dilan jayamaha 
-
+Fr.Trevo Martin
+Praish priest
