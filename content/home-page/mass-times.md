@@ -3,80 +3,48 @@ title: Regular Services at St. Mary's
 side: left
 order: 1
 ---
-###
+### 2023 Holy Week Services ###
+#### Saturday, 1st April
+- 6:15 PM: Blessing of the palms at all masses in the Grotto.
 
+#### Palm Sunday, 2nd April
+(Blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
+- 7:00 AM
+- 8:30 AM
+- 10:30 AM
+- 12:00 noon
+- 6:00 PM
+- All services in English.
 
-### 2023 HOLY WEEK SERVICES ###
-#### PALM SUNDAY ####
-(blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
+#### Weekday Masses (April 3rd, 4th & 5th)
+- Weekday masses on April 3rd, 4th, and 5th will be held as usual.
 
-1st April (Saturday)
-6.15pm
+#### Maundy Thursday, 6th April
+- There will be no morning masses.
+- 6:30 PM: Evening service.
+- Holy Hours on Maundy Thursday, 6th April 2023:
+  - 8:00 to 8:45 PM: Sunday School, Altar Servers, and Holy Childhood.
+  - 8:45 to 9:30 PM: All Sodalities.
+  - 9:30 to 10:15 PM: Youth Association.
+  - 10:15 to 10:45 PM: Sinhala Community.
+  - 10:45 to 11:15 PM: Tamil Community.
+  - 11:15 PM to Midnight: Parish Hour, with choirs.
 
-2nd April 
-(Sunday)
-7.00AM
-8.30AM
-10.30AM
-12.00 Noon
-6.00PM
+#### Good Friday, 7th April
+- 7:00 AM: Way of the Cross in English.
+- 8:30 AM: Way of the Cross in Sinhala.
+- 10:00 AM: Way of the Cross in Tamil.
+- 4:00 PM: Evening service.
 
-(all service in English.)
+#### Holy Saturday, 8th April
+- 7:00 PM: Blessing of the Fire and Water Service.
 
-April 3rd, 4th & 5th
-WEEKDAY MASSES: as usual
-
-#### MAUNDY THURSDAY ####
-6th April 
-There will be no morning masses.
-
-Evening service at 6.30PM
-
-HOLY HOURS ON MAUNDY THURSDAY.
-6th April 2023
-
-8.00 TO 8.45 PM
-SUNDAY SCHOOL
-ALTAR SERVERS
-HOLY CHILDHOOD
-
-8.45 TO 9.30 PM
-ALL SODALITIES
-
-9.30 - 10.15 PM
-YOUTH ASSOCIATION 
-
-10.15 TO 10.45PM SINHALA COMMUNITY 
-10.45 TO 11.15 PM TAMIL COMMUNITY 
-
-11.15 PM TO MID NIGHT - PARISH HOUR, WITH CHOIRS.
-
-### GOOD FRIDAY ####
-7th April 
-
-Way of the cross:
-English 7.00AM
-Sinhala 8.30AM
-Tamil 10.00AM
-
-Evening service at 4.00PM
-
-#### HOLY SATURDAY ####
-8th April
-
-Blessing of the Fire and Water
-Service at
-7.00PM
-
-#### EASTER SUNDAY  ####
-9TH April
-
-7.00AM
-8.30AM
-10.30AM
-12.00Noon 
-
-THERE WILL BE NO EVENING MASSES 
+#### Easter Sunday, 9th April
+- 7:00 AM
+- 8:30 AM
+- 10:30 AM
+- 12:00 noon
+- There will be no evening masses.
 
 ### Regular Services at St. Mary's
 
