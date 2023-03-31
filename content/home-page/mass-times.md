@@ -6,8 +6,8 @@ order: 1
 ###
 
 
-=== 2023 HOLY WEEK SERVICES ===
-==== PALM SUNDAY ====
+### 2023 HOLY WEEK SERVICES ###
+#### PALM SUNDAY ####
 (blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
 
 1st April (Saturday)
@@ -26,13 +26,13 @@ order: 1
 April 3rd, 4th & 5th
 WEEKDAY MASSES: as usual
 
-MAUNDY THURSDAY
+#### MAUNDY THURSDAY ####
 6th April 
 There will be no morning masses.
 
 Evening service at 6.30PM
 
-HOLY HOURS ON MAUNDY THURSDAY. - 
+HOLY HOURS ON MAUNDY THURSDAY.
 6th April 2023
 
 8.00 TO 8.45 PM
@@ -51,7 +51,7 @@ YOUTH ASSOCIATION
 
 11.15 PM TO MID NIGHT - PARISH HOUR, WITH CHOIRS.
 
-==== GOOD FRIDAY ====
+### GOOD FRIDAY ####
 7th April 
 
 Way of the cross:
@@ -61,14 +61,14 @@ Tamil 10.00AM
 
 Evening service at 4.00PM
 
-==== HOLY SATURDAY ====
+#### HOLY SATURDAY ####
 8th April
 
 Blessing of the Fire and Water
 Service at
 7.00PM
 
-==== EASTER SUNDAY  ====
+#### EASTER SUNDAY  ####
 9TH April
 
 7.00AM
