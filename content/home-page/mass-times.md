@@ -6,9 +6,8 @@ order: 1
 ###
 
 
-2023
-HOLY WEEK SERVICES AT ST.MARY'S CHURCH, BAMBALAPITIYA
-PALM SUNDAY
+=== 2023 HOLY WEEK SERVICES ===
+==== PALM SUNDAY ====
 (blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
 
 1st April (Saturday)
@@ -52,7 +51,7 @@ YOUTH ASSOCIATION
 
 11.15 PM TO MID NIGHT - PARISH HOUR, WITH CHOIRS.
 
-GOOD FRIDAY
+==== GOOD FRIDAY ====
 7th April 
 
 Way of the cross:
@@ -62,14 +61,14 @@ Tamil 10.00AM
 
 Evening service at 4.00PM
 
-HOLY SATURDAY
+==== HOLY SATURDAY ====
 8th April
 
 Blessing of the Fire and Water
 Service at
 7.00PM
 
-EASTER SUNDAY 
+==== EASTER SUNDAY  ====
 9TH April
 
 7.00AM
