@@ -14,20 +14,11 @@ Rev Fr, Trevor Martin and the faithful welcome you to the Church of St. Mary. We
 ### Announcements 
 
 
-*For new year masses commencing midnight,  Please feel free to bring in your own  offertory and join the offertory procession*
-
-- 14th January 2022 will be a special day of prayer organised by the different  dioceses, at Tewatte, Ragama.
-Details of programmes and times will be notified in due course.
-
  **Anniversary masses** 
-There will be a special mass for Couples celebrating  their wedding  Anniversaries, from January 2022, every 4th week.
-(at the 10.30 mass) Please give in your names to the parish office at the beginning of each month.
+There will be a special mass for Couples celebrating  their wedding  Anniversaries, every 4th week of sunday (at the 10.30 mass) Please give in your names to the parish office at the beginning of each month.
 
-Rev Fr. Augustine Vallooran  will be conducting the Holy Spirit Novena from 5th January 2022. (Wednesday)
-The Holy spirit Novena will commence at 6.10pm, as usual, followed by Holy Mass at 6.30 pm.
-
- **IMPORTANT**
-From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY ( commencing 11th Jan), with 15 minutes of praise and worship at 6.15pm, followed by Novena  mass at 6.30pm.
+**IMPORTANT**
+The Holy spirit Novena will be held every wendseday with 15 minutes of praise and worship at 6.15pm, followed by Novena  mass at 6.30pm.
 
 Parish visits will commence from January 2022. It will be appreciated if all parish books are updated.
 
