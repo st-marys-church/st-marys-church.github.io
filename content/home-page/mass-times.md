@@ -5,7 +5,7 @@ order: 1
 ---
 ### 2023 Holy Week Services ###
 #### Saturday, 1st April
-- 6:15 PM: Blessing of the palms at all masses in the Grotto.
+- 6:15 PM: Blessing of the palms will be on the grotto, the entarence procession from the grotto.)
 
 #### Palm Sunday, 2nd April
 (Blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
@@ -44,7 +44,7 @@ order: 1
 - 8:30 AM
 - 10:30 AM
 - 12:00 noon
-- There will be no evening masses.
+- There will be no evening mass.
 
 ### Regular Services at St. Mary's church bambalapitiya 
 
