@@ -17,7 +17,7 @@ order: 1
 - All services in English.
 
 #### Weekday Masses (April 3rd, 4th & 5th)
-- Weekday masses on April 3rd, 4th, and 5th will be held as usual.
+- Weekday masses on April 3rd, 4th masses will be held has usual at 6.30AM in the morning and 5th wendseday mass at morning 6.30 will be held but there is no evening mnovena mass please be aware. 
 
 #### Maundy Thursday, 6th April
 - There will be no morning masses.
