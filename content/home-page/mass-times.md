@@ -46,7 +46,7 @@ order: 1
 - 12:00 noon
 - There will be no evening masses.
 
-### Regular Services at St. Mary's
+### Regular Services at St. Mary's church bambalapitiya 
 
 **Weekday Masses**
 * Monday - 6:30 AM
@@ -60,11 +60,9 @@ order: 1
 * Wednesday – 6:10 pm Novena to the Holy Spirit followed by Holy Mass.
 * Friday – 06.30 Novena to Infant Jesus followed by Holy Mass.
 
-Rev Fr. Augustine Vallooran  will be conducting the Holy Spirit Novena from 5th January 2022. (Wednesday)
-The Holy spirit Novena will commence at 6.15pm, as usual, followed by Holy Mass at 6.30 pm.
 
  **IMPORTANT**
-From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY ( commencing 11th Jan), with 15 minutes of praise and worship at 6.15pm, followed by Novena  mass at 6.30pm.
+The Holy spirit Novena will be held every wendseday , with 15 minutes of praise and worship at 6.15pm, followed by Novena  mass at 6.30pm.
 
 **Holy Hour** 
 
@@ -76,7 +74,7 @@ From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY 
 * 07:00 AM (mass on 01 st Saturday will be held in the grotto, Subject to Weather conditions)
 * 06:15 Mass (Valid for Sunday Obligation)
 
-**Sunday**
+**Sunday masses**
 
 * 07:00 AM
 * 08:30 AM
@@ -90,10 +88,5 @@ From the 2nd week of January, the Holy spirit Novena will be held every TUESDAY 
 
 *Please feel free to bring in your own  offertory and join the offertory procession.
 
-**Please check the below COVID regulations when visiting the church.**
-*  All worshippers are requested to adhere to the COVID regulations when entering the church.
-* A face mask is mandatory.
-* Please maintain social distancing at all times. 
-* Sanitize hand before entering the church. 
-* A temperature  check will be taken upon entering the church. 
+
 
