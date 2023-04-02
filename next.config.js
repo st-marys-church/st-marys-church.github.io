@@ -7,7 +7,7 @@ module.exports = withPlugins([
 
     }],
     {
-        basePath: isGhPages ? '/st-marys-colombo4' : '',
+        // basePath: isGhPages ? '/st-marys-colombo4' : '',
         trailingSlash: true
     }
 ]);
