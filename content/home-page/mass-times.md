@@ -3,48 +3,7 @@ title: Regular Services at St. Mary's
 side: left
 order: 1
 ---
-### 2023 Holy Week Services ###
-#### Saturday, 1st April
-- 6:15 PM: Blessing of the palms will be on the grotto, the entarence procession from the grotto.)
 
-#### Palm Sunday, 2nd April
-(Blessing of the palms at all mases, in Grotto. Entrance procession, from Grotto.)
-- 7:00 AM
-- 8:30 AM
-- 10:30 AM
-- 12:00 noon
-- 6:00 PM
-- All services in English.
-
-#### Weekday Masses (April 3rd, 4th & 5th)
-- Weekday masses on April 3rd, 4th masses will be held has usual at 6.30AM in the morning and 5th wendseday mass at morning 6.30 will be held but there is no evening mnovena mass please be aware. 
-
-#### Maundy Thursday, 6th April
-- There will be no morning masses.
-- 6:30 PM: Evening service.
-- Holy Hours on Maundy Thursday, 6th April 2023:
-  - 8:00 to 8:45 PM: Sunday School, Altar Servers, and Holy Childhood.
-  - 8:45 to 9:30 PM: All Sodalities.
-  - 9:30 to 10:15 PM: Youth Association.
-  - 10:15 to 10:45 PM: Sinhala Community.
-  - 10:45 to 11:15 PM: Tamil Community.
-  - 11:15 PM to Midnight: Parish Hour, with choirs.
-
-#### Good Friday, 7th April
-- 7:00 AM: Way of the Cross in English.
-- 8:30 AM: Way of the Cross in Sinhala.
-- 10:00 AM: Way of the Cross in Tamil.
-- 4:00 PM: Evening service.
-
-#### Holy Saturday, 8th April
-- 7:00 PM: Blessing of the Fire and Water Service.
-
-#### Easter Sunday, 9th April
-- 7:00 AM
-- 8:30 AM
-- 10:30 AM
-- 12:00 noon
-- There will be no evening mass.
 
 ### Regular Services at St. Mary's church bambalapitiya 
 
