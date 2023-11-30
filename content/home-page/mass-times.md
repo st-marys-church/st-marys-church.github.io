@@ -1,9 +1,36 @@
----
-title: Regular Services at St. Mary's
-side: left
-order: 1
----
+115TH FEAST OF THE IMMACULATE CONCEPTION 
+ST.MARY'S CHURCH BAMABALAPITIYA 
+COLOMBO 04
 
+PROGRAMME SUMMARY 
+
+THE FLAG STAFF WILL BE HOSTED ON THE 3RD DECEMBER AFTER 10.30AM MASS 
+
+NOVENAS
+
+4TH DECEMBER (SINHALA & ENGLISH, BILINGUAL)
+5TH DECEMBER 
+
+(Tamil)
+(On both days rosary and litany at 6:00PM followed by novena mass)
+
+6TH, 7TH & 8TH DECEMEBER(ENGLISH)
+
+(Rosary and litany on all three days at 5:30PM follwed by novena mass from 6:00PM to 8:00PM.)
+
+Celberate Rev.Fr.Michael.p. 
+
+OTHER MASSES FOR 8TH DECEMBER (DAY OF OBLIGATION)
+
+6:30AM 
+12:15PM 
+No morning mass, on monday, tuseday and thursday and No saturady evening mass.
+
+VESPERS - 9th december @6:30PM and procession around the church
+
+FESTIVE HIGH MASS - 10th december @8:30AM 
+
+No mass @7:00AM & 10:30AM on this date. All other suday masses as usual.
 
 ### Regular Services at St. Mary's church bambalapitiya 
 
