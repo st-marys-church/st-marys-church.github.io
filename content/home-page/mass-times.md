@@ -1,3 +1,8 @@
+---
+title: Regular Services at St. Mary's
+side: left
+order: 1
+---
 115TH FEAST OF THE IMMACULATE CONCEPTION 
 ST.MARY'S CHURCH BAMABALAPITIYA 
 COLOMBO 04
