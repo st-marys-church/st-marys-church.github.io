@@ -3,39 +3,40 @@ title: Regular Services at St. Mary's
 side: left
 order: 1
 ---
-115TH FEAST OF THE IMMACULATE CONCEPTION 
-ST.MARY'S CHURCH BAMABALAPITIYA 
-COLOMBO 04
 
-PROGRAMME SUMMARY 
+### 115th Feast of the Immaculate Conception
+*St. Mary's Church Bambalapitiya, Colombo 04*
 
-THE FLAG STAFF WILL BE HOSTED ON THE 3RD DECEMBER AFTER 10.30AM MASS 
+**Programme Summary**
 
-NOVENAS
+The flag staff will be hosted on the 3rd of December after the 10.30 AM Mass.
 
-4TH DECEMBER (SINHALA & ENGLISH, BILINGUAL)
-5TH DECEMBER 
+**Novenas**
 
-(Tamil)
-(On both days rosary and litany at 6:00PM followed by novena mass)
+* 4th December (Sinhala & English, Bilingual)
+* 5th December (Tamil)
 
-6TH, 7TH & 8TH DECEMEBER(ENGLISH)
+On both days, Rosary and Litany at 6:00 PM followed by Novena Mass.
 
-(Rosary and litany on all three days at 5:30PM follwed by novena mass from 6:00PM to 8:00PM.)
+* 6th, 7th & 8th December (English)
 
-Celberate Rev.Fr.Michael.p. 
+Rosary and Litany on all three days at 5:30 PM followed by Novena Mass from 6:00 PM to 8:00 PM.
 
-OTHER MASSES FOR 8TH DECEMBER (DAY OF OBLIGATION)
+Celebrant: Rev. Fr. Michael P.
 
-6:30AM 
-12:15PM 
-No morning mass, on monday, tuseday and thursday and No saturady evening mass.
+**Other Masses for 8th December (Day of Obligation)**
 
-VESPERS - 9th december @6:30PM and procession around the church
+* 6:30 AM
+* 12:15 PM
 
-FESTIVE HIGH MASS - 10th december @8:30AM 
+No morning Mass on Monday, Tuesday, and Thursday. No Saturday evening Mass.
 
-No mass @7:00AM & 10:30AM on this date. All other suday masses as usual.
+**Vespers** - 9th December at 6:30 PM and procession around the church.
+
+**Festive High Mass** - 10th December at 8:30 AM.
+
+No Mass at 7:00 AM & 10:30 AM on this date. All other Sunday Masses as usual.
+
 
 ### Regular Services at St. Mary's church bambalapitiya 
 
