@@ -4,38 +4,51 @@ side: left
 order: 1
 ---
 
-### 115th Feast of the Immaculate Conception
-*St. Mary's Church Bambalapitiya, Colombo 04*
+### PROGRAMME OF CHRISTMAS AND NEW YEAR . 
+ AS PER MINUTES OF LITURGY COMMITTEE
 
-**Programme Summary**
 
-The flag staff will be hosted on the 3rd of December after the 10.30 AM Mass.
+ 24th December 
+Instrumentals.
+Flute and Organ 
+From 10.45 to 11.00 pm.
 
-**Novenas**
+Carols from 11.00 to 11.50pm. 
 
-* 4th December (Sinhala & English, Bilingual)
-* 5th December (Tamil)
+Organised by SMCG
 
-On both days, Rosary and Litany at 6:00 PM followed by Novena Mass.
+Midnight mass to commence at 11.50.
 
-* 6th, 7th & 8th December (English)
+Two children from Sunday school  representing Mary and Joseph will walk with fr, for the entrance procession.
+Choir SMCG
 
-Rosary and Litany on all three days at 5:30 PM followed by Novena Mass from 6:00 PM to 8:00 PM.
+ Masses on Christmas day 
 
-Celebrant: Rev. Fr. Michael P.
+7.00 am
+8.30 am
+10.30 am
+12.00 Noon.
 
-**Other Masses for 8th December (Day of Obligation)**
+ NO EVENING MASS ON CHRISTMAS DAY 
 
-* 6:30 AM
-* 12:15 PM
+ NEW YEAR 
 
-No morning Mass on Monday, Tuesday, and Thursday. No Saturday evening Mass.
+ DAY OF OBLIGATION 
 
-**Vespers** - 9th December at 6:30 PM and procession around the church.
+FEAST OF MARY, MOTHER OF GOD
 
-**Festive High Mass** - 10th December at 8:30 AM.
+Midnight mass
+Benediction and Holy hour 
+11.15 to 11.45 pm
+Mass commences at 11.50
+Joint choir.
+( ORGANIST TO BE CONFIRMED)
 
-No Mass at 7:00 AM & 10:30 AM on this date. All other Sunday Masses as usual.
+ Masses during the day 
+7.00 am
+8.30am
+12.15pm
+6.00pm
 
 
 ### Regular Services at St. Mary's church bambalapitiya 
