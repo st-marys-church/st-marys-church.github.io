@@ -30,9 +30,9 @@ on Saturday, 16th March 2024
 ### Regular Services at St. Mary's church bambalapitiya 
 
 **Weekday Masses**
-* Monday - 6:30 AM
-* Tuesday – 6.30 AM
-* Wednesday : 6:15 AM , 06:10 PM (English)
+* Monday - 6:30 AM (English)
+* Tuesday – 6.30 AM (English)
+* Wednesday : 6:15 AM (English)
 * Thursday – 6:30 AM (English)
 * Friday -6:30 PM (English)
 
