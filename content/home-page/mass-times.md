@@ -1,26 +1,4 @@
 
-### Lenten Programmes
-
-* Way of the Cross in English every Friday 5:30pm-6:30pm preached by a guest priest.
-* Way of the Cross (Sinhala/Tamil) every Friday 4:00pm-5:00pm
-  * 16th February - in Sinhala
-  * 23rd February - in Tamil
-  * 1st March - in Sinhala
-  * 8th March - in Tamil
-  * 15th March - in Sinhala
-  * 22nd March - in Tamil
-
-Every Saturday, a priest will be available for confession at 5:15pm to 7:15pm.
-
-Every Sunday, a priest will be available for confession at all masses.
-
-**Special Lenten Programmes**
-
-* Sunday school – Pilgrimage to “Calvary Mabima”
-on Saturday, 9th March 2024
-
-* “Way of the Cross” parish pilgrimage to Horana
-on Saturday, 16th March 2024
 
 ### Regular Services at St. Mary's church bambalapitiya 
 
