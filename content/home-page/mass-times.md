@@ -34,7 +34,7 @@ on Saturday, 16th March 2024
 * Tuesday – 6.30 AM (English)
 * Wednesday : 6:15 AM (English)
 * Thursday – 6:30 AM (English)
-* Friday -6:30 PM (English)
+* Friday -6:30 AM (English)
 
 **Novenas**
 
