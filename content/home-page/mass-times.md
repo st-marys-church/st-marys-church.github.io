@@ -1,4 +1,26 @@
 
+## Lentern Programmes
+
+* Way of the cross in English Every Friday 5.30pm-6.30pm Preached by a Guest Priest.
+* Way of the cross (Sinhala/Tamil) Every Friday 4.00pm-5.00pm
+  * 16th February - in Sinhala
+  * 23rd February - in Tamil
+  * 1st March - in Sinhala
+  * 8th March - in Tamil
+  * 15th March - in Sinhala
+  * 22nd March - in Tamil
+
+Every Saturday a priest will be available for confession at 5.15pm to 7.15pm.
+
+Every Sunday a Priest will be available for confession at all masses.
+
+**Special Lentern Programmes**
+
+* Sunday school – Pilgrimage to “Calvary Mabima”
+on Saturday 09 th March 2024
+
+* “Way of the Cross” parish pilgrimage to Horana
+on Saturday 16th March 2024
 
 ### Regular Services at St. Mary's church bambalapitiya 
 
@@ -42,5 +64,11 @@ The Holy spirit Novena will be held every wendseday , with 15 minutes of praise 
 
 *Please feel free to bring in your own  offertory and join the offertory procession.
 
+### Parish Office Hours
 
+Tuesday  8.30 am to 1.00 pm and 3.00 pm to 5.00 pm
 
+Wednesday / Thursday / Friday 8.30 am to 1.00 pm
+
+Sunday / Monday / Poya Day And Government Holidays 
+(Public / Bank / Mercantile) Parish Office will remain closed
