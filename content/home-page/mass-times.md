@@ -41,12 +41,3 @@ The Holy spirit Novena will be held every wendseday , with 15 minutes of praise 
 *A Special Anniversary mass will be held every 04th Sunday at 10.30 am for couples celebrating their anniversaries during the month.
 
 *Please feel free to bring in your own  offertory and join the offertory procession.
-
-### Parish Office Hours
-
-Tuesday  8.30 am to 1.00 pm and 3.00 pm to 5.00 pm
-
-Wednesday / Thursday / Friday 8.30 am to 1.00 pm
-
-Sunday / Monday / Poya Day And Government Holidays 
-(Public / Bank / Mercantile) Parish Office will remain closed
