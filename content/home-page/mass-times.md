@@ -32,9 +32,9 @@ on Saturday, 16th March 2024
 **Weekday Masses**
 * Monday - 6:30 AM
 * Tuesday – 6.30 AM
-* Wednesday : 12:15 PM , 06:10 PM (Novena)
-* Thursday – 6:30 AM
-* Friday -12:15 PM , 06:10 PM (Novena)
+* Wednesday : 6:15 AM , 06:10 PM (English)
+* Thursday – 6:30 AM (English)
+* Friday -6:30 PM (English)
 
 **Novenas**
 
