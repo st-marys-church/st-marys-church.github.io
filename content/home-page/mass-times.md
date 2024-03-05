@@ -1,5 +1,5 @@
 
-## Lenten Programmes
+### Lenten Programmes
 
 * Way of the Cross in English every Friday 5:30pm-6:30pm preached by a guest priest.
 * Way of the Cross (Sinhala/Tamil) every Friday 4:00pm-5:00pm
