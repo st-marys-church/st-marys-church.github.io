@@ -4,6 +4,35 @@ side: left
 order: 1
 ---
 
+### Thursday 28th March to Sunday 31st March 2024
+
+**Maundy Thursday - 28th March**
+- **NO HOLY MASS IN THE MORNING**
+- **6:30 PM** - Evening Mass of the Lord’s Supper with Washing of Feet, Breaking of Bread, and Exposition of the Blessed Sacrament
+- **Prayer Service Schedule:**
+  - **8:00 PM to 8:45 PM** - Sunday School / Altar Servers / Holy Childhood
+  - **8:45 PM to 9:30 PM** - All Sodalities
+  - **9:30 PM to 10:15 PM** - Youth Association
+  - **10:15 PM to 10:45 PM** - Sinhala Community
+  - **10:45 PM to 11:15 PM** - Tamil Community
+  - **11:15 PM to Midnight** - For all Parishioners
+
+**Good Friday - 29th March**
+- **7:00 AM** - Way of the Cross (English)
+- **8:30 AM** - Way of the Cross (Sinhala)
+- **10:00 AM** - Way of the Cross (Tamil)
+- **4:00 PM** - Celebration of the Lord’s Passion, Holy Communion and Veneration of the Cross (English)
+
+**Holy Saturday - 30th March**
+- **7:00 PM** - Easter Vigil / Blessing of Fire / Lighting of the Easter Candle / and Liturgy of the Eucharist
+
+**Easter Sunday - 31st March**
+- **7:00 AM** - Holy Mass (English)
+- **8:30 AM** - Holy Mass (English)
+- **10:30 AM** - Holy Mass (English)
+- **12:00 Noon** - Holy Mass (English)
+- **EASTER SUNDAY (31st March) NO MASS IN THE EVENING**
+
 ### Lenten Programmes
 
 * Way of the Cross in English every Friday 5:30pm-6:30pm preached by a guest priest.
